@@ -57,3 +57,19 @@ A regressão exploratória resume esse quadro: com a Selic defasada em 7 meses e
 ### Conclusão
 
 A inadimplência de pessoas físicas não se move sozinha nem reage a choques de um mês para o outro: ela tem ciclos longos e responde, com defasagem, às condições de juros. Entre os dois indicadores, a Selic é o que mostra associação mais clara; o IPCA, isolado, diz pouco. O passo seguinte natural seria incorporar desemprego, massa de rendimentos, comprometimento de renda das famílias, saldo da carteira de crédito e renegociações, para testar explicações mais completas do que a leitura apenas por juros e inflação.
+
+## Referências
+
+- CESOP/IPEC. Pesquisa 04829 — "Percepção dos brasileiros sobre o racismo no Brasil". Centro de Estudos de Opinião Pública (Cesop), Universidade Estadual de Campinas (Unicamp). Microdados e documentação técnica em `data/raw/`. Acervo: https://www.cesop.unicamp.br/
+- IBGE — Instituto Brasileiro de Geografia e Estatística. Censo Demográfico 2022: população por cor ou raça. Rio de Janeiro, 2023. https://censo2022.ibge.gov.br/
+- Banco Central do Brasil. Sistema Gerenciador de Séries Temporais (SGS). Séries 21084 (inadimplência da carteira de crédito — pessoas físicas — total), 4390 (Selic acumulada no mês) e 433 (IPCA mensal). https://www3.bcb.gov.br/sgspub/
+- Ferramentas e bibliotecas: Python, pandas, NumPy, Matplotlib, SciPy (teste qui-quadrado) e statsmodels (regressão OLS).
+
+## Declaração de uso de IA
+
+Utilizamos ferramentas de inteligência artificial como apoio no desenvolvimento deste trabalho:
+
+- Assistente de IA (Claude / Claude Code, da Anthropic): revisão e organização do código, verificação da execução dos notebooks, conferência dos resultados estatísticos e revisão da redação dos textos.
+- _[Acrescente aqui outras ferramentas que o grupo utilizou — por exemplo ChatGPT ou GitHub Copilot — e em quê.]_
+
+As decisões de análise, a escolha das bases, a interpretação dos resultados e a redação final foram revisadas e validadas pelos integrantes do grupo. As ferramentas de IA não foram usadas para gerar nem alterar dados: todos os dados provêm das fontes públicas citadas nas Referências.

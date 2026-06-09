@@ -1,0 +1,11 @@
+# Ambiente / cache do Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Configuração local de ferramentas (não faz parte da entrega)
+.claude/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
