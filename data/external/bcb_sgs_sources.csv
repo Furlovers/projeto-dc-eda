@@ -1,0 +1,4 @@
+serie_sgs,nome_curto,descricao,periodicidade,arquivo_raw
+21084,inadimplencia_pf_total,Inadimplência da carteira de crédito - Pessoas físicas - Total (% da carteira com atraso > 90 dias),mensal,data/raw/bcb_21084.csv
+4390,selic_am,Taxa de juros - Selic acumulada no mês (% a.m.),mensal,data/raw/bcb_4390.csv
+433,ipca_am,IPCA - variação mensal (% a.m.),mensal,data/raw/bcb_433.csv

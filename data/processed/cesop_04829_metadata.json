@@ -1,0 +1,13 @@
+{
+  "product": "@(#) IBM SPSS STATISTICS 64-bit MS Windows 25.0.0.0",
+  "layout": 2,
+  "nominal_case_size": 144,
+  "compression": 1,
+  "weight_index": 0,
+  "ncases": 2000,
+  "bias": 100.0,
+  "creation_date": "05 Apr 24",
+  "creation_time": "13:46:02",
+  "file_label": "",
+  "encoding": "utf-8"
+}
