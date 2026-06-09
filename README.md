@@ -31,17 +31,13 @@ Este repositório contém os arquivos para as duas partes do Projeto I de EDA.
 
 ## Como executar no Google Colab
 
-Os notebooks trazem uma célula inicial que detecta o ambiente: no Colab, ela baixa o projeto do GitHub; localmente, usa a própria pasta do projeto. Em ambos os casos, a pasta `data/` é localizada automaticamente.
+Cada notebook tem uma célula inicial que, no Colab, baixa este repositório com `git clone` e localiza a pasta `data/` automaticamente. Em execução local, o download é ignorado e usa-se a própria pasta do projeto. O `REPO_URL` já vem configurado para este repositório.
 
-1. Publique este projeto em um repositório no GitHub.
-2. Abra um dos notebooks de `notebooks/` no Colab (Arquivo → Abrir notebook → aba GitHub, ou faça upload do `.ipynb`).
-3. Na primeira célula, ajuste `REPO_URL` para o endereço do seu repositório:
+Abra direto no Colab e use "Ambiente de execução → Executar tudo":
 
-```python
-REPO_URL = "https://github.com/USUARIO-OU-ORG/projeto_i_eda.git"
-```
-
-4. Execute todas as células (Ambiente de execução → Executar tudo). No Colab, a célula roda `git clone` em `/content/projeto_i_eda` e carrega os dados de lá; localmente, o download é ignorado.
+- Notebook completo: https://colab.research.google.com/github/Furlovers/projeto-dc-eda/blob/main/notebooks/Projeto_I_EDA_Completo.ipynb
+- Parte A — Opinião CESOP: https://colab.research.google.com/github/Furlovers/projeto-dc-eda/blob/main/notebooks/Projeto_I_EDA_Parte_A_Opiniao_CESOP.ipynb
+- Parte B — Séries de inadimplência: https://colab.research.google.com/github/Furlovers/projeto-dc-eda/blob/main/notebooks/Projeto_I_EDA_Parte_B_Series_Inadimplencia.ipynb
 
 ## Principais fontes de dados
 
