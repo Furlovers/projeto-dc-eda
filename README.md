@@ -2,6 +2,8 @@
 
 Este repositório contém os arquivos para as duas partes do Projeto I de EDA.
 
+Link para vídeo da apresentação: https://youtu.be/bdcG2zKIEI4
+
 ## Sumário das entregas
 
 ### Notebook completo
