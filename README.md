@@ -71,3 +71,12 @@ Utilizamos ferramentas de inteligência artificial como apoio no desenvolvimento
 - _[Acrescente aqui outras ferramentas que o grupo utilizou — por exemplo ChatGPT ou GitHub Copilot — e em quê.]_
 
 As decisões de análise, a escolha das bases, a interpretação dos resultados e a redação final foram revisadas e validadas pelos integrantes do grupo. As ferramentas de IA não foram usadas para gerar nem alterar dados: todos os dados provêm das fontes públicas citadas nas Referências.
+
+## Integrantes:
+
+* Breno Amorim Roman - 20.00395-0
+* Bruno Giannini Loffreda - 21.00122-7
+* Enrico Mota Santarelli - 22.00370-3
+* Leonardo Galdi Fiorese - 22.00952-3
+* Sergio Guidi Trovo - 22.01128-5
+* Rodrigo Reis Monasterios Morales - 22.01432-2
